@@ -2,4 +2,5 @@
 
 My **Submission** for *Lab 1*
 
-<img src="C:\Users\Jasper\ide comp3111.png"/>
+![comp3111 scrnshot](https://github.com/Jasper-Yeung/Comp3111LEx/assets/145177116/8d704144-0836-4eab-b954-1ed0b9b7d6d6)
+
